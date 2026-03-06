@@ -37,7 +37,7 @@
 
 ## 🌍 支持的语言
 
-🇺🇸 English • 🇯🇵 日本語 • 🇨🇳 中文 • 🇪🇸 Español • 🇧🇷 Português • 🇩🇪 Deutsch • 🇫🇷 Français • 🇷🇺 Русский • 🇮🇹 Italiano • 🇰🇷 한국어 • 🇸🇦 العربية
+🇺🇸 English • 🇨🇳 中文 
 
 ## 🚀 快速开始
 

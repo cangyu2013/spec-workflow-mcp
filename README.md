@@ -41,7 +41,7 @@ A Model Context Protocol (MCP) server for structured spec-driven development wit
 
 **📖 Documentation in your language:**
 
-[English](README.md) | [日本語](README.ja.md) | [中文](README.zh.md) | [Español](README.es.md) | [Português](README.pt.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Русский](README.ru.md) | [Italiano](README.it.md) | [한국어](README.ko.md) | [العربية](README.ar.md)
+[English](README.md) | [中文](README.zh.md) 
 
 ## 🚀 Quick Start
 
